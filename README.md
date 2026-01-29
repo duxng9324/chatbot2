@@ -161,8 +161,7 @@ GET http://localhost:8000/ai/history
 👉 Fix nhanh:
 ```bash
 npm install react@18.2.0 react-dom@18.2.0
-``lộ api key r
-em để  nó vào file env đi không push lên nó khóa 
+```
 ---
 
 # 📌 Ghi chú
